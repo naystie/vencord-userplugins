@@ -9,5 +9,6 @@ my [vencord](https://vencord.dev) user plugins. each has its own repository; cli
 | [LastOnline](https://github.com/naystie/vc-lastOnline) | shows how long ago someone was last online under their name |
 | [StreamZoomFill](https://github.com/naystie/vc-streamZoomFill) | streams fill your screen when you zoom in |
 | [ShowAllBadges](https://github.com/naystie/vc-showAllBadges) | shows all profile badges without hiding any behind '+N' |
+| [PlayTime](https://github.com/naystie/vc-playTime) | shows how long you've played each game |
 
 new to user plugins??? [here's how to install them](https://docs.vencord.dev/installing/custom-plugins/)
